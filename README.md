@@ -17,7 +17,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
 
 ## Process
 
-1. 
+1. Download 'HR_Analytics.csv' from https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction
 2. 
 
 ## Results
