@@ -5,7 +5,7 @@ My wife works in the field of Human Resources and she was fascinated about what 
 - Employee Recruitment - Is it attracting top talent?
 - Employee Engagement - Does it keep employees motivated and productive?
 - Employee Retention - Will it keep employees from quitting their jobs?
-- Market Competitivness - Is it below, matching, or above salary in the job market?
+- Market Competitivness - Is the salary above or below, or the same, in the job market?
 - Pay Equity - Is it fair based on the job responsibilites?
 - Performance-Based Pay - Does more good work lead to more compensation?
 
