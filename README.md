@@ -11,9 +11,9 @@ My wife works in the field of Human Resources and she was fascinated about what 
 
 Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle that contains information about HR Analytics.  In particular, I wanted to answer:
 
-1. Are employees with the same job descriptions being compensated equally?
-2. What is the average salary between job titles?
-3. Is there a gender wage gap between men and women for the same title and responsibilities?
+1. Are employees with the same job titles and responsibilities being compensated equally?
+2. What is the average salary between job positions?
+3. Is there a gender wage gap between men and women for the same job title and responsibilities?
 
 ## Process
 
