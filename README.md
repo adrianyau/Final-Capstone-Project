@@ -21,6 +21,12 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
 2. Import 'HR_Analytics.csv' to Jupyter Notebooks for analysis (1,480 rows x 38 columns; no nulls nor duplicates)
 3. Summary of the data:
    - Attrition: (Yes or No)
+   - Age Group:
+     - 18 to 25: 123 (8.31%)
+     - 26 to 35: 611 (41.28%)
+     - 36 to 45: 471 (31.82%)
+     - 46 to 55: 228 (15.41%)
+     - Over 55: 47 (3.18%)
    - Department:
      - Human Resources
      - Research & Development
