@@ -1,7 +1,7 @@
 # Final-Capstone-Project
 
 ## Project/Goals
-My wife works in the field of Human Resources and she was fascinated about what I have learned in my Data Analytics Bootcamp.  I consulted with her and asked what she would be interested if the numbers could give deep insight in her line of work.  She suggested to me about pay philosophy - the framework that makes decisions on employees compensation.  This is important to Human Resources because it helps align with the organization's goals and strategies on:
+My wife works in the field of Human Resources and she was fascinated about what I have learned in my Data Analytics Bootcamp.  I consulted with her asking what she would be interested if the numbers could give deep insight in her line of work.  She suggested to me about pay philosophy - the framework that makes decisions on employees compensation.  This is important to Human Resources because it helps align with the organization's goals and strategies on:
 - Employee Recruitment
 - Employee Engagement
 - Employee Retention
