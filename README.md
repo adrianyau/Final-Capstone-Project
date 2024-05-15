@@ -1,7 +1,7 @@
 # Final-Capstone-Project
 
 ## Project/Goals
-My wife works in the field of Human Resources and she was fascinated about what I have learned in my Data Analytics Bootcamp.  I consulted with her asking what she would be interested if the numbers could give deep insight in her line of work.  She suggested to me about employee attrition - the departure of employees from an organization, whether voluntary or involuntary.  This is important to Human Resources because it is a metric that provides insight on how well does an organization retain their workforce.  Reasons for attrition are due to:
+My wife works in the field of Human Resources and she was fascinated about what I have learned in my Data Analytics Bootcamp.  I consulted with her asking what she would be interested if the numbers could give deep insight in her line of work.  She suggested to me about employee attrition - the departure of employees from an organization, whether voluntary or involuntary.  This is important to Human Resources because it is a metric that provides insight on how well does an organization retain their workforce.  Reasons for attrition are mainly due to:
 - Compensation
 - Recognition
 - Career Progression
