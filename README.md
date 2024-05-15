@@ -32,10 +32,10 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Research Scientist
      - Sales Executive
      - Sales Representative
-  - Gender:
+   - Gender:
     - Males: 591 (39.93%)
     - Females: 889 (60.07%)
-  - Marital Status:
+   - Marital Status:
     - Divorced: 328 (22.16%)
     - Married: 679 (45.88%)
     - Single: 473 (31.96%)
