@@ -72,12 +72,25 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Daily Rate
      - Monthly Rate
      - Monthly Income
+   - Salary Slab:
+     - Up to $5,000
+     - $5,001 to $10,000
+     - $10,001 to $15,000
+     - Over $15,000 
    - Other Compensation:
      - Percent Salary Hike (min. 11% to max. 25%)
      - Stock Option Levels (0-3)
    - Performance Rating:
      - 3
      - 4
+   - Business Travel:
+     - Non-Travel
+     - Travel Rarely
+     - Travel Frequently
+   - Distance From Home:
+     - Average 9.22
+     - Min. 1.00
+     - Max. 29.00
 
 ## Results
 
