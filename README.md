@@ -52,6 +52,17 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Years At Company
      - Years Since Last Promotion
      - Years With Current Manager
+   - Base Compensation:
+     - Hourly Rate
+     - Daily Rate
+     - Monthly Rate
+     - Monthly Income
+   - Other Compensation:
+     - Percent Salary Hike
+     - Stock Option Level (0-3)
+   - Performance Rating:
+     - 3
+     - 4
 
 ## Results
 
