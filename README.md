@@ -21,8 +21,17 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
 2. Import 'HR_Analytics.csv' to Jupyter Notebooks for analysis (1,480 rows x 38 columns; no nulls nor duplicates)
 3. Summary of the data:
    - Attrition: (Yes or No)
-   - Department: Human Resources, Research & Development, and Sales
-   - Education Fields: Life Sciences, Medical, Marketing, Human Resources, Technical Degree, Other
+   - Department:
+     - Human Resources
+     - Research & Development
+     - Sales
+   - Education Fields:
+     - Life Sciences
+     - Medical
+     - Marketing
+     - Human Resources
+     - Technical Degree
+     - Other
    - Job Roles / Job Levels:
      - Healthcare Representative (2-4)
      - Human Resources (1-3)
