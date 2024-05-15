@@ -23,16 +23,16 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
    - Attrition: Reduction of number of employees through involuntary or voluntary means.
    - Department: Human Resources, Research & Development, and Sales
    - Education Fields: Life Sciences, Medical, Marketing, Human Resources, Technical Degree, Other
-   - Job Roles:
-     - Healthcare Representative
-     - Human Resources
-     - Laboratory Technician
-     - Manager
-     - Manufacturing Director
-     - Research Director
-     - Research Scientist
-     - Sales Executive
-     - Sales Representative
+   - Job Roles / Job Levels:
+     - Healthcare Representative (2-4)
+     - Human Resources (1-3)
+     - Laboratory Technician (1-3)
+     - Manager (3-5)
+     - Manufacturing Director (2-4)
+     - Research Director (3-5)
+     - Research Scientist (1-3)
+     - Sales Executive (2-4)
+     - Sales Representative (1-2)
    - Gender:
      - Males: 591 (39.93%)
      - Females: 889 (60.07%)
