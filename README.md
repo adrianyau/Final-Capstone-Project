@@ -40,6 +40,11 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Divorced: 328 (22.16%)
      - Married: 679 (45.88%)
      - Single: 473 (31.96%)
+   - Surveys (1 to 4):
+     - Environment Satisfaction
+     - Job Satisfaction
+     - Relationship Satisfaction
+     - Work Life Balance
 
 ## Results
 
