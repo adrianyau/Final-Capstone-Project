@@ -22,11 +22,11 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
 3. Summary of the data:
    - Attrition: (Yes or No)
    - Age Group:
-     - 18 to 25: 123 (8.31%)
-     - 26 to 35: 611 (41.28%)
-     - 36 to 45: 471 (31.82%)
-     - 46 to 55: 228 (15.41%)
-     - Over 55: 47 (3.18%)
+     - 18 to 25
+     - 26 to 35
+     - 36 to 45
+     - 46 to 55
+     - Over 55
    - Department:
      - Human Resources
      - Research & Development
@@ -52,9 +52,9 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Males: 591 (39.93%)
      - Females: 889 (60.07%)
    - Marital Status:
-     - Divorced: 328 (22.16%)
-     - Married: 679 (45.88%)
-     - Single: 473 (31.96%)
+     - Divorced
+     - Married
+     - Single
    - Surveys (from 1 to 4):
      - Environment Satisfaction
      - Job Satisfaction
@@ -76,8 +76,8 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Percent Salary Hike (min. 11% to max. 25%)
      - Stock Option Levels (0-3)
    - Performance Rating:
-     - 3 (1253 Employees)
-     - 4 (227 Employees)
+     - 3
+     - 4
 
 ## Results
 
