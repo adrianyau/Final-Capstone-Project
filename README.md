@@ -18,7 +18,27 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
 ## Process
 
 1. Download 'HR_Analytics.csv' from https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction
-2. 
+2. Analyze the data:
+   - Attrition: Reduction of number of employees through involuntary or voluntary means.
+   - Department: Human Resources, Research & Development, and Sales
+   - Education Fields: Life Sciences, Medical, Marketing, Human Resources, Technical Degree, Other
+   - Job Roles:
+     - Healthcare Representative
+     - Human Resources
+     - Laboratory Technician
+     - Manager
+     - Manufacturing Director
+     - Research Director
+     - Research Scientist
+     - Sales Executive
+     - Sales Representative
+  - Gender:
+    - Males: 591 (39.93%)
+    - Females: 889 (60.07%)
+  - Marital Status:
+    - Divorced: 328 (22.16%)
+    - Married: 679 (45.88%)
+    - Single: 473 (31.96%)
 
 ## Results
 
