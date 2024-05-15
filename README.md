@@ -9,11 +9,11 @@ My wife works in the field of Human Resources and she was fascinated about what 
 
 Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle that contains information about HR Analytics.  In particular to the subject about employee attrition, I wanted to answer:
 
-1. What does the job satisfaction suggest?
+1. What does the data on job satisfaction suggest?
 2. Does the amount of travel play a factor?
 3. Are employees still quitting after a salary increase?
 4. Is gender an important element?
-5. What is the ratio of higher performers staying versus leaving?
+5. How long do employees stay before they leave?
 
 ## Process
 
