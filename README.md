@@ -61,8 +61,8 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Percent Salary Hike
      - Stock Option Level (0-3)
    - Performance Rating:
-     - 3
-     - 4
+     - 3 (1253)
+     - 4 (227)
 
 ## Results
 
