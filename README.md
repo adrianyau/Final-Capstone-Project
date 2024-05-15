@@ -58,8 +58,8 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Monthly Rate
      - Monthly Income
    - Other Compensation:
-     - Percent Salary Hike
-     - Stock Option Level (0-3)
+     - Percent Salary Hike (min. 11% to max. 25%)
+     - Stock Option Levels (0-3)
    - Performance Rating:
      - 3 (1253 Employees)
      - 4 (227 Employees)
