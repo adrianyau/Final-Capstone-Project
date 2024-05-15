@@ -45,6 +45,13 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Job Satisfaction
      - Relationship Satisfaction
      - Work Life Balance
+   - Years:
+     - Standard Hours (80)
+     - Total Working Years
+     - Training Times Last Year
+     - Years At Company
+     - Years Since Last Promotion
+     - Years With Current Manager
 
 ## Results
 
