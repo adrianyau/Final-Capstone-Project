@@ -11,12 +11,12 @@ My wife works in the field of Human Resources and she was fascinated about what 
 
 Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle that contains information about HR Analytics.  In particular, I wanted to answer:
 
-1. Is it attracting top talent?
-2. Does it keep employees motivated and productive?
-3. Will it prevent employees from attrition?
-4. Is salary above or below, or the same, in the job market?
-5. Is it fair for the job responsibilties and is it without discrimination?
-6. Does more good work lead to more compensation?
+1. Is the pay attractive with respect to the job?
+2. Does pay keep employees motivated and productive?
+3. Will pay prevent employees from attrition?
+4. Is the pay above or below, or the same, in the job market?
+5. Is the pay fair for the job responsibilties and is it without discrimination?
+6. Does more good work reward more pay?
 
 ## Process
 
