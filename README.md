@@ -207,8 +207,6 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
        - Min. 0
        - Max. 17
 
-         *Null Values mean "No Manager"
-
 
 ## Results
 
