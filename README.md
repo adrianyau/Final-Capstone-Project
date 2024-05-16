@@ -48,7 +48,6 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Human Resources
      - Technical Degree
      - Other
-    
    - Number of Companies Worked:
      - Average 3
      - Min. 0
@@ -149,12 +148,13 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
        - 1: Basic
        - 2: Intermediate
        - 3: Advanced
-
+   - Standard Hours (80 Hours)
    - Performance Rating:
      - 3: Meets Expectations
      - 4: Exceeds Expectations
 
-   - Satisfaction Scores (1 - Very Dissatisfied, 2 - Dissatisfied, 3 - Satisfied, 4 - Very Satisfied):
+   Here are satisfaction scores with respect to the environment, job, relationships, and work-life balance:
+   - Range (1 - Very Dissatisfied, 2 - Dissatisfied, 3 - Satisfied, 4 - Very Satisfied):
      - Environment Satisfaction
        - Workspace Safety, Cleaniness, and Comfort
      - Job Satisfaction
@@ -164,6 +164,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Work Life Balance
        - Equilibrium Between Work and Personal Life Commitments
 
+   Here is information about business travel and distance between home and work:
    - Business Travel:
      - Non-Travel
        - No travel for Work
@@ -179,9 +180,8 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Min. 1.00
      - Max. 29.00
 
+   Here is information about the number of years with respect to experience, training, tenure, and promotion:
    - Years:
-     - Standard Hours (80 Hours)
-     - Over 18 (All Employees)
      - Total Working Years
        - Average 0
        - Min. 0
