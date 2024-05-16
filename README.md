@@ -95,10 +95,20 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
        - Support sales and maintain long-term relationships
    - Job Levels:
      - 1: Entry-Level
+       - Little or no experience
+       - Basic tasks, learning, training
      - 2: Associate
-     - 3: Intermediate
+       - Some experience and higher level of competency than entry-level
+       - More complex tasks, perform regular duties, support senior staff
+     - 3: Mid-Level
+       - Specialized knowledge, work independently
+       - Manage and contribute to projects
      - 4: Senior
+       - Extensive experience and leadership capabilities
+       - Responsible for planning, decision-making, and mentorship
      - 5: Executive
+       - Significant responsibility and influence within the organization
+       - Involved in organizational strategy, leadership,and vision
 
    - Job Involvement:
      - 1: Low
