@@ -169,14 +169,18 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
    Here is information about business travel and distance between home and work:
    - Business Travel:
      - Non-Travel
-       - No travel for Work
-       - For adminstrative roles and support staff
+       - No travel for work
+       - Consistent daily routine and work environment
+       - Stable, low stress, better work-life balance
+       - Lack of networking opportunities and limited exposure to new environments
      - Travel Rarely
-       - Occasional travel for training, conferences, and meetings
-       - For mid-level job roles and managers
+       - Few trips annually, such as conferences, training sessions, and important meetings
+       - Building relationships and attend key events
+       - Occasional disruption to work-life routine and minor stress related to travel
      - Travel Frequently
-       - Regular travel for business
-       - For sales, executives, and directors
+       - Multiple trips and continuous travel throught the year
+       - High level interactions with clients and stakeholders with networking opportunities and exposure to business practices
+       - Frequent disruption to work-life routine and high level of travel-related stress
    - Distance From Home:
      - Average 9.22
      - Min. 1.00
