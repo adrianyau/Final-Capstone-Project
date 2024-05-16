@@ -19,11 +19,10 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
 
 1. Download 'HR_Analytics.csv' from https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction.
 2. Import 'HR_Analytics.csv' to Jupyter Notebooks for analysis.
-3. Based on the dataset, this is an organization that may belong in the field of healthcare or pharmaceuticals.  There is involvement in scientific research and development, as well as sales and marketing of the products being studied.
+3. Based on the dataset, this is an organization that may belong in the field of healthcare or pharmaceuticals.  There is involvement in scientific research and development, as well as sales and marketing of the products being studied and tested.
 4. Summary and Explanation of the Data:
-   - Attrition:
-     - Yes or No
-   - Age Group:
+   - Attrition (Yes or No): This will be the foundation to measure attrition influenced by other variables in the dataset.
+   - Age Groups:
      - 18 to 25
      - 26 to 35
      - 36 to 45
@@ -33,6 +32,12 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Divorced
      - Married
      - Single
+   - Education:
+     - 1: High School
+     - 2: College
+     - 3: Bachelor's
+     - 4: Master's
+     - 5: Doctorate
    - Education Fields:
      - Life Sciences
      - Medical
@@ -40,12 +45,6 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Human Resources
      - Technical Degree
      - Other
-   - Education:
-     - 1: High School
-     - 2: College
-     - 3: Bachelor's
-     - 4: Master's
-     - 5: Doctorate
     
    - Number of Companies Worked:
      - Average 3
