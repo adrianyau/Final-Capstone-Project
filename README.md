@@ -86,7 +86,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
        - Generate revenue and drive business growth
      - Sales Representative (1-2)
        - Promote and sell organization's products
-       - Understand needs, provide production, and ensure customer satisfaction
+       - Understand needs, provide information, and ensure customer satisfaction
        - Support sales and maintain long-term relationships
    - Job Levels:
      - 1: Entry-Level
