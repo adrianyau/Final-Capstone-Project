@@ -5,9 +5,9 @@ My wife works in the field of Human Resources and she was fascinated about what 
 - Low Compensation
 - Poor Recognition
 - Lack of Career Growth
-- High Level of Stress
+- High Levels of Stress
 
-Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle that contains information about HR Analytics.  In particular to the subject about employee attrition, I wanted to answer:
+Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle that contains information about HR Analytics.  With respect to the subject about employee attrition, I wanted to answer:
 
 1. What does the data on job satisfaction suggest?
 2. Does the amount of travel play a factor?
