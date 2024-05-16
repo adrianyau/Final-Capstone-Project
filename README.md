@@ -14,7 +14,7 @@ Attrition can have a negative impact on an organization:
 - Negative morale and engagement from employee turnover
 - Costs to recruit, hire, and onboard new employees
 - Temporary dip in work productivity and efficiency
-- Disruption of client relationships and trust from loss of employee contact
+- Disruption of client relationships and trust from loss of established contacts
 - Disruption to continuity of service and quality of service
 - Delays in ongoing products and initiatives
 - Disruption in team cohesion
