@@ -145,7 +145,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
        - For adminstrative roles and support staff
      - Travel Rarely
        - Occasional travel for training, conferences, and meetings
-       - For manager roles
+       - For mid-level job roles and managers
      - Travel Frequently
        - Regular travel for business
        - For sales, executives, and directors
