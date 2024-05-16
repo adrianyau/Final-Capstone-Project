@@ -96,10 +96,10 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
    - Job Levels:
      - 1: Entry-Level
        - Little or no experience
-       - Basic tasks, learning, training
+       - Basic tasks, learning, and training
      - 2: Associate
        - Some experience and higher level of competency than entry-level
-       - More complex tasks, perform regular duties, support senior staff
+       - More complex tasks, perform regular duties, and support senior staff
      - 3: Mid-Level
        - Specialized knowledge, work independently
        - Manage and contribute to projects
@@ -108,7 +108,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
        - Responsible for planning, decision-making, and mentorship
      - 5: Executive
        - Significant responsibility and influence within the organization
-       - Involved in organizational strategy, leadership,and vision
+       - Involved in organizational strategy, leadership, and vision
 
    - Job Involvement:
      - 1: Low
