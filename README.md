@@ -22,9 +22,10 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
 3. Based on the dataset, this is an organization that may belong in the field of healthcare or pharmaceuticals.  There is involvement in scientific research and development, as well as sales and marketing of the products being studied and tested.
 4. Summary and Explanation of the Data:
 
-   Attrition (Yes or No): This will be the basis to measure attrition influenced by other variables in the dataset.
+   Attrition (Yes or No)
+   - This will be the basis to measure attrition influenced by other variables in the dataset.
 
-   Here is the information about employees with respect to age, marital status, and education:
+   Here is information about employees with respect to age, marital status, education, and work:
    - Age Groups:
      - 18 to 25
      - 26 to 35
@@ -53,7 +54,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Min. 0
      - Max. 9
 
-   Here is the information about the organization's departments and job positions, as well as importance and responsibilities:
+   Here is the information about the organization's departments and job positions, as well as responsibilities and importance:
    - Departments:
      - Human Resources
      - Research & Development
@@ -98,28 +99,29 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
    - Job Levels:
      - 1: Entry-Level
        - Little or no experience
-       - Basic tasks, learning, and training
+       - Basic tasks with learning and training
      - 2: Associate
-       - Some experience and higher level of competency than entry-level
+       - Some experience and a step higher level of competency than entry-level
        - More complex tasks, perform regular duties, and support senior staff
      - 3: Mid-Level
-       - Specialized knowledge, work independently
-       - Manage and contribute to projects
+       - Specialized knowledge and work independently
+       - Manage own work and contribute to projects
      - 4: Senior
        - Extensive experience and leadership capabilities
        - Responsible for planning, decision-making, and mentorship
      - 5: Executive
        - Significant responsibility and influence within the organization
        - Involved in organizational strategy, leadership, and vision
+   
    - Job Involvement (the degree on how employees are engaged with their jobs):
      - 1: Low
        - Minimal interest in their work
-       - Means to earn paycheques with little attachment to their jobs
-       - High turnover rate, low productivity, low job satisfaction
+       - Means to earn a paycheque with little attachment to the job
+       - Higher turnover rate, lower productivity, and lower job satisfaction
      - 2: Moderate
        - Basic level of interest in their work
        - Adequate performance and some participation to work-related activities
-       - Steady performance and reasonable job satisfaction, but potential for engagement and productivity
+       - Steady and reasonable job satisfaction, but potential for engagement and productivity
      - 3: High
        - High level of interest and personal significance in their work
        - High performance and activate participation with the organization
