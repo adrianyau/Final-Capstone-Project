@@ -46,6 +46,11 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - 3: Bachelor's
      - 4: Master's
      - 5: Doctorate
+    
+   - Number of Companies Worked:
+     - Average 3
+     - Min. 0
+     - Max. 9
 
    - Departments:
      - Human Resources
@@ -61,7 +66,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
        - Handle employee compensation and benefits
        - Maintain positive work culture and support organizational goals
      - Laboratory Technician (1-3)
-       - Test and analyze proudcts
+       - Test and analyze products
        - Prepare samples, operate laboratory equipment, and record data
        - Support projects in research and development
      - Manager (3-5)
@@ -75,7 +80,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Research Director (3-5)
        - Lead research and development projects
        - Set agendas, oversee progresses, and manage reserch teams
-       - Innovate new products to the market
+       - Innovate new products for the market
      - Research Scientist (1-3)
        - Conduct experiments and investigations to develop new products or improve existing products
        - Plan research, analyze data, and publish findings
@@ -94,6 +99,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - 3: Intermediate
      - 4: Senior
      - 5: Executive
+
    - Job Involvement:
      - 1: Low
      - 2: Moderate
@@ -123,7 +129,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - 3: Meets Expectations
      - 4: Exceeds Expectations
 
-   - Satisfaction Scores (from 1 to 4: (1) - Very Dissatisfied, (2) - Dissatisfied, (3) - Satisfied, (4) - Very Satisfied):
+   - Satisfaction Scores (1 - Very Dissatisfied, 2 - Dissatisfied, 3 - Satisfied, 4 - Very Satisfied):
      - Environment Satisfaction
        - Workspace Safety, Cleaniness, and Comfort
      - Job Satisfaction
@@ -144,11 +150,33 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
 
    - Years:
      - Standard Hours (80 Hours)
+     - Over 18 (All Employees)
      - Total Working Years
+       - Average 0
+       - Min. 0
+       - Max. 40
      - Training Times Last Year
+       - Average 3
+       - Min. 0
+       - Max. 6
      - Years At Company
+       - Average 7
+       - Min. 0
+       - Max. 40
+     - Years In Current Role:
+       - Average 4
+       - Min. 0
+       - Max. 18
      - Years Since Last Promotion
+       - Average 2
+       - Min. 0
+       - Max. 15
      - Years With Current Manager
+       - Average 0
+       - Min. 0
+       - Max. 17
+
+         *Null Values mean "No Manager"
 
 
 ## Results
