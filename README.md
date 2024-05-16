@@ -18,7 +18,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
 ## Process
 
 1. Download 'HR_Analytics.csv' from https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction
-2. Import 'HR_Analytics.csv' to Jupyter Notebooks for analysis (1,480 rows x 38 columns; no nulls nor duplicates)
+2. Import 'HR_Analytics.csv' to Jupyter Notebooks for analysis (1,480 rows x 38 columns; no duplicates; 1,284 non-nulls)
 3. Summary of the data:
    - Attrition: (Yes or No)
    - Age Group:
