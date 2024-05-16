@@ -7,7 +7,7 @@ My wife works in the field of Human Resources and she was fascinated about what 
 - Lack of Career Growth
 - High Levels of Stress
 
-Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle that contains information about HR Analytics.  With respect to the subject about employee attrition, I wanted to answer:
+Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle that contains information about HR Analytics.  I wanted to explore:
 
 1. What does the data on job satisfaction suggest?
 2. Does the amount of travel play a factor?
@@ -21,7 +21,10 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
 2. Import 'HR_Analytics.csv' to Jupyter Notebooks for analysis.
 3. Based on the dataset, this is an organization that may belong in the field of healthcare or pharmaceuticals.  There is involvement in scientific research and development, as well as sales and marketing of the products being studied and tested.
 4. Summary and Explanation of the Data:
-   - Attrition (Yes or No): This will be the foundation to measure attrition influenced by other variables in the dataset.
+
+   Attrition (Yes or No): This will be the foundation to measure attrition influenced by other variables in the dataset.
+
+   Here is the information about employees with respect to age, marital status, and education:
    - Age Groups:
      - 18 to 25
      - 26 to 35
@@ -51,6 +54,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Min. 0
      - Max. 9
 
+   Here is the information about the organization's departments and job positions, as well as importance and responsibilities:
    - Departments:
      - Human Resources
      - Research & Development
@@ -108,13 +112,25 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - 5: Executive
        - Significant responsibility and influence within the organization
        - Involved in organizational strategy, leadership, and vision
-
-   - Job Involvement:
+   - Job Involvement (the degree on how employees are engaged with their jobs):
      - 1: Low
+       - Minimal interest in their work
+       - Means to earn paycheques with little attachment to their jobs
+       - High turnover rate, low productivity, low job satisfaction
      - 2: Moderate
+       - Basic level of interest in their work
+       - Adequate performance and some participation to work-related activities
+       - Steady performance and reasonable job satisfaction, but potential for engagement and productivity
      - 3: High
+       - High level of interest and personal significance in their work
+       - High performance and activate participation with the organization
+       - More productivity, higher job satisfaction, and higher organizational loyalty
      - 4: Very High
+       - Deeply engaged and passionate in their work
+       - Exceptional performance and strong commitment to the organization
+       - High productivity and innovation, but potential to burnout if not managed properly
 
+   Here is the information about the organization's compensation structure:
    - Base Compensation:
      - Hourly Rate
      - Daily Rate
