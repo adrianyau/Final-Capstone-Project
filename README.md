@@ -18,11 +18,11 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
 ## Process
 
 1. Download 'HR_Analytics.csv' from https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction.
-2. Import 'HR_Analytics.csv' to Jupyter Notebooks for analysis.
+2. Import 'HR_Analytics.csv' to Jupyter Notebooks for data review and cleaning, if necessary.
 3. Based on the dataset, this is an organization that may belong in the field of healthcare or pharmaceuticals.  There is involvement in scientific research and development, as well as sales and marketing of the products being studied and tested.
 4. Summary and Explanation of the Data:
 
-   Attrition (Yes or No): This will be the foundation to measure attrition influenced by other variables in the dataset.
+   Attrition (Yes or No): This will be the basis to measure attrition influenced by other variables in the dataset.
 
    Here is the information about employees with respect to age, marital status, and education:
    - Age Groups:
