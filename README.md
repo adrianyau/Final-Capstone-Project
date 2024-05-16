@@ -2,10 +2,10 @@
 
 ## Project/Goals
 My wife works in the field of Human Resources and she was fascinated about what I have learned in my Data Analytics Bootcamp.  I consulted with her asking what she would be interested if the numbers could give deep insight in her line of work.  She suggested to me about employee attrition - the departure of employees from an organization, whether voluntary or involuntary.  This is important to Human Resources because it is a metric that provides insight on how well does an organization retain their workforce.  Reasons for attrition are mainly due to:
-- Low compensation
-- Poor recognition
-- Lack of career growth
-- High level of stress
+- Low Compensation
+- Poor Recognition
+- Lack of Career Growth
+- High Level of Stress
 
 Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle that contains information about HR Analytics.  In particular to the subject about employee attrition, I wanted to answer:
 
