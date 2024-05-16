@@ -7,6 +7,20 @@ My wife works in the field of Human Resources and she was fascinated about what 
 - Lack of Career Growth
 - High Levels of Stress
 
+Attrition can have a negative impact on an organization:
+- Loss of employees with valuable knowledge and expertise
+- Time and resources spent on new employees
+- Increased workload on existing employees
+- Negative morale and engagement from employee turnover
+- Costs to recruit, hire, and onboard new employees
+- Temporary dip in work productivity and efficiency
+- Disruption of client relationships and trust from loss of employee contact
+- Disruption to continuity of service and quality of service
+- Delays in ongoing products and initiatives
+- Disruption in team cohesion
+- Harm organization's reputation to attract top talent and promote positive work culture
+- Suggest organization's underlying financial issues to investors and stakeholders.
+
 Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle that contains information about HR Analytics.  I wanted to explore:
 
 1. What does the data on job satisfaction suggest?
