@@ -17,8 +17,8 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
 
 ## Process
 
-1. Download 'HR_Analytics.csv' from https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction
-2. Import 'HR_Analytics.csv' to Jupyter Notebooks for analysis (1,480 rows x 38 columns; no duplicates; 1,284 non-nulls)
+1. Download 'HR_Analytics.csv' from https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction.
+2. Import 'HR_Analytics.csv' to Jupyter Notebooks for analysis.
 3. Based on the dataset, this is an organization that may belong in the field of healthcare or pharmaceuticals.  There is involvement in scientific research and development, as well as sales and marketing of the products being studied.
 4. Summary and Explanation of the Data:
    - Attrition:
