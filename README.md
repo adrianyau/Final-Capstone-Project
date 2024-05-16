@@ -94,6 +94,11 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - 3: Intermediate
      - 4: Senior
      - 5: Executive
+   - Job Involvement:
+     - 1: Low
+     - 2: Moderate
+     - 3: High
+     - 4: Very High
 
    - Base Compensation:
      - Hourly Rate
@@ -114,22 +119,20 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
        - 2: Intermediate
        - 3: Advanced
 
-   - Satisfaction Scores (from 1 to 4):
-     - Environment Satisfaction
-     - Job Satisfaction
-     - Relationship Satisfaction
-     - Work Life Balance
-
-   - Years:
-     - Standard Hours (80)
-     - Total Working Years
-     - Training Times Last Year
-     - Years At Company
-     - Years Since Last Promotion
-     - Years With Current Manager
    - Performance Rating:
-     - 3
-     - 4
+     - 3: Meets Expectations
+     - 4: Exceeds Expectations
+
+   - Satisfaction Scores (from 1 to 4: (1) - Very Dissatisfied, (2) - Dissatisfied, (3) - Satisfied, (4) - Very Satisfied):
+     - Environment Satisfaction
+       - Workspace Safety, Cleaniness, and Comfort
+     - Job Satisfaction
+       - Tasks and Responsibilities
+     - Relationship Satisfaction
+       - Interpersonal Relationships with Colleagues and Supervisors
+     - Work Life Balance
+       - Equilibrium Between Work and Personal Life Commitments
+
    - Business Travel:
      - Non-Travel
      - Travel Rarely
@@ -138,6 +141,15 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Average 9.22
      - Min. 1.00
      - Max. 29.00
+
+   - Years:
+     - Standard Hours (80 Hours)
+     - Total Working Years
+     - Training Times Last Year
+     - Years At Company
+     - Years Since Last Promotion
+     - Years With Current Manager
+
 
 ## Results
 
