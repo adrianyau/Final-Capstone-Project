@@ -171,7 +171,7 @@ ORDER BY hoursworked DESC
 |47         |30        |1421     |9490       |17856        |
 |44         |32        |1420     |21922      |18844        |
 
-According to Human Resources, not only does the rate include salary, but also, other overhead costs and expenses to retain the employee, such as benefits and pension.  Therefore, the salary rates will be excluded and 'Monthly Income' will be measured as the employee salary.
+According to Human Resources, not only does the rate include salary, but also, other overhead costs and expenses to keep an employee, such as benefits and pension.  Therefore, the salary rates will be excluded and 'Monthly Income' will be measured as the employee salary.
      - 'Monthly Income' will be the variable used for compensation as the total amount of money that an employee receives in one month from the employer.  Plus, the monthly income is categorized by the following 'Salary Slabs':
          - Up to $5,000
          - $5,001 to $10,000
