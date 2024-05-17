@@ -171,7 +171,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
 
    Here is the information about the organization's compensation structure:
    - Base Compensation:
-     - 'Hourly Rate', 'Daily Rate', and 'Monthly Rate' are not properly measured because the conversion between hourly, daily, and monthly does not make sense.  For example, the most hours worked (49 hours) divide 'Daily Rate' by 'Hourly Rate' exceed 24 hours in a day.  According to Human Resources, not only does the rate include salary, but also, other overhead costs and expenses to keep an employee, such as benefits and pension.  Therefore, the salary rates will be excluded and 'Monthly Income' will be measured as the employee salary.
+     - 'Hourly Rate', 'Daily Rate', and 'Monthly Rate' are not properly measured because the conversion between hourly, daily, and monthly does not make sense.  For example, the most hours worked (49 hours) divide 'Daily Rate' by 'Hourly Rate' exceed 24 hours in a day.  According to Human Resources, not only does the rate include salary, but also, other overhead costs and expenses to keep an employee, such as benefits, social insurance, and pension.  Therefore, the salary rates will be excluded and 'Monthly Income' will be measured as the employee salary.
      - 'Monthly Income' will be the variable used for compensation as the total amount of money that an employee receives in one month from the employer.  Plus, the monthly income is categorized by the following 'Salary Slabs':
          - Up to $5,000
          - $5,001 to $10,000
