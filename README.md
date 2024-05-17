@@ -21,6 +21,13 @@ Attrition can have a negative impact on an organization:
 - Harm organization's reputation to attract top talent and promote positive work culture
 - Suggest organization's underlying financial issues to investors and stakeholders.
 
+However, attrition can provide positive attributes to an organization:
+- Result in savings and reduce overhead costs
+- Flexibility to add fresh new talent with potential
+- Let go of underperforming employees
+- Opportunities internal promotions for existing employees
+- Find employees that align with organization's cultural fit
+
 Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle that contains information about HR Analytics.  I wanted to explore:
 
 1. What does the data on job satisfaction suggest?
