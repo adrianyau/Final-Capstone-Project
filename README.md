@@ -80,45 +80,53 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
    Here is the information about the organization's departments and job positions, including responsibilities and importance:
    - Departments:
      - Human Resources
+       - Human Resources (1-3)
+         - Recruit and onboard new hires
+         - Process compensation and benefits
+         - Support positive work culture and organizational goals
+       - Manager (3-5)
+         - Develop job positions and career development programs
+         - Oversee payroll processes
+         - Handle grievances, conflicts, labor laws, and workplace compliances
      - Research & Development
+       - Laboratory Technician (1-3)
+         - Test, sample, and analyze products
+         - Operate laboratory equipment and record data
+         - Support cases in research and development
+       - Research Scientist (1-3)
+         - Conduct experiments on developing and improving products
+         - Plan research, analyze data, and publish findings
+         - Support efforts to research and development
+       - Healthcare Representative (2-4)
+         - Build relationships with healthcare providers
+         - Provide product information
+         - Support adoption and use of products
+       - Manufacturing Director (2-4)
+         - Oversee and optimize production processes
+         - Ensure manufacturing efficiencies and meet quality assurances
+         - Manage production schedules and supervise staff
+       - Manager (3-5)
+         - Oversee project deadlines, budgets, and deliverables
+         - Supervise staff and assign tasks to employees
+         - Evaluate performance and resolve technical issues
+       - Research Director (3-5)
+         - Develop strategy for research and development that align with organizational goals
+         - Provide leadership to managers and their teams
+         - Collaborate with stakeholders and manage funding, budgets, risks, and execution
      - Sales
-   - Job Roles (with Job Levels):
-     - Healthcare Representative (2-4)
-       - Build relationships with healthcare providers
-       - Provide product information
-       - Support adoption and use of organization's products
-     - Human Resources (1-3)
-       - Recruit, train, and develop employees
-       - Handle employee compensation and benefits
-       - Maintain positive work culture and support organizational goals
-     - Laboratory Technician (1-3)
-       - Test and analyze products
-       - Prepare samples, operate laboratory equipment, and record data
-       - Support projects in research and development
-     - Manager (3-5)
-       - Oversee teams and departments within the organization
-       - Plan, coordinate, and direct activities
-       - Ensure efficient operations, manage budgets, and provide leadership
-     - Manufacturing Director (2-4)
-       - Oversee and optimize production processes
-       - Ensure timely manufacturing efficiencies and meet quality assurances
-       - Manage production schedules and supervise manufacturing staff
-     - Research Director (3-5)
-       - Lead research and development projects
-       - Set agendas, oversee progresses, and manage reserch teams
-       - Innovate new products for the market
-     - Research Scientist (1-3)
-       - Conduct experiments and investigations to develop new products or improve existing products
-       - Plan research, analyze data, and publish findings
-       - Support research and development efforts
-     - Sales Executive (2-4)
-       - Sell organization's products to clients
-       - Find sales opportunities, build relationships with clients, negotiate contracts, and close deals
-       - Generate revenue and drive business growth
-     - Sales Representative (1-2)
-       - Promote and sell organization's products
-       - Understand needs, provide information, and ensure customer satisfaction
-       - Support sales and maintain long-term relationships
+       - Sales Representative (1-2)
+         - Promote and sell products
+         - Understand needs, provide information, and ensure customer satisfaction
+         - Support sales and maintain relationships
+       - Sales Executive (2-4)
+         - Generate revenue and drive business growth through product sales
+         - Build relationships with customers, negotiate contracts, and close deals
+         - Attend industry events, conferences, and seminars for networking opportunities
+       - Manager (3-5)
+         - Set sales targets and financial objectives
+         - Develop sales strategies, campaigns, promotions, and initiatives for sales team
+         - Manage marketing resources to optimize sales efforts
+
    - Job Levels:
      - 1: Entry-Level
        - Little or no experience
@@ -135,6 +143,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - 5: Executive
        - Significant responsibility and influence within the organization
        - Involved in organizational strategy, leadership, and vision
+
    - Standard Hours are 80 hours
 
    Here is the information about Job Involvement - the degree measured on how employees are engaged with their jobs:
