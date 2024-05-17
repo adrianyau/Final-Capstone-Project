@@ -65,6 +65,12 @@ GROUP BY department
 |Human Resources|
 |Research & Development|
 |Sales     |
+
+```sql
+SELECT maritalstatus
+FROM hr_analytics
+GROUP BY maritalstatus
+```
 |maritalstatus|
 |-------------|
 |Married      |
