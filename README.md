@@ -179,7 +179,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
        - 3: Advanced
          - Substantial stock options that are heavily incentivized and a part of an employee's compensation package, mainly for top directors and executives
 
-   Here is the information about 'Performance Rating'.  Employees have only received 3 or 4, which will be used to define as follows:
+   Here is the information about 'Performance Rating'.  Employees have only received 3 or 4, which will be used to grade as follows:
      - 3: Meets Expectations
      - 4: Exceeds Expectations
 
