@@ -55,6 +55,17 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - 36 to 45
      - 46 to 55
      - Over 55
+```sql
+SELECT department
+FROM hr_analytics
+GROUP BY department
+```
+|department|
+|----------|
+|Human Resources|
+|Research & Development|
+|Sales     |
+
    - Marital Status:
      - Divorced
      - Married
