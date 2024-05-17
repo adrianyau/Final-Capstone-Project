@@ -39,3 +39,33 @@ ORDER BY educationfield
 |Other         |
 |Technical Degree|
 
+```sql
+SELECT department
+FROM hr_analytics
+GROUP BY department
+```
+|department|
+|----------|
+|Human Resources|
+|Research & Development|
+|Sales     |
+
+```sql
+SELECT jobrole
+FROM hr_analytics
+GROUP BY jobrole
+ORDER BY jobrole
+```
+|jobrole|
+|-------|
+|Healthcare Representative|
+|Human Resources|
+|Laboratory Technician|
+|Manager|
+|Manufacturing Director|
+|Research Director|
+|Research Scientist|
+|Sales Executive|
+|Sales Representative|
+
+
