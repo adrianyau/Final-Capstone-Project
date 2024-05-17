@@ -144,7 +144,10 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
        - Significant responsibility and influence within the organization
        - Involved in organizational strategy, leadership, and vision
 
-   - Standard Hours are 80 hours
+   - 'Standard Hours' suggests to be 80 hours per week for all employees
+     - A typical work week is between 35 to 40 hours over 5 days, in addition to overtime for accomodating quarterly sales push or meeting deadlines for product research
+     - It is applicable to all departments, job positions, and job levels
+     - Data validity is needed to confirm the number of working hours and whether this variable has an effect to employee attrition
 
    Here is the information about 'Job Involvement' - the degree measured on how employees are engaged with their jobs:
      - 1: Low
