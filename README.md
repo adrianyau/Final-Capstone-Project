@@ -183,19 +183,18 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - 3: Meets Expectations
      - 4: Exceeds Expectations
 
-   Here are satisfaction scores with respect to the environment, job, relationships, and work-life balance:
+   Here is the information about satisfaction scores with respect to the environment, job, relationships, and work-life balance:
    - Range (1 - Very Dissatisfied, 2 - Dissatisfied, 3 - Satisfied, 4 - Very Satisfied):
      - Environment Satisfaction
        - Workspace Safety, Cleaniness, and Comfort
      - Job Satisfaction
-       - Tasks and Responsibilities
+       - Work, Contributions, Compensation, and Opportunities
      - Relationship Satisfaction
        - Interpersonal Relationships with Colleagues and Supervisors
      - Work Life Balance
        - Equilibrium Between Work and Personal Life Commitments
 
-   Here is information about business travel and distance between home and work:
-   - Business Travel:
+   Here is information about 'Business Travel' and the distance between home and work:
      - Non-Travel
        - No travel for work
        - Consistent daily routine and work environment
@@ -209,10 +208,10 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
        - Multiple trips and continuous travel throught the year
        - High level interactions with clients and stakeholders with networking opportunities and exposure to business practices
        - Frequent disruption to work-life routine and high level of travel-related stress
-   - Distance From Home:
-     - Average 9.22
-     - Min. 1.00
-     - Max. 29.00
+   - For 'Distance From Home', we will use the imperial metric system:
+     - Average 9.22 mi
+     - Min. 1 mi
+     - Max. 29 mi
 
    Here is information about the number of years with respect to experience, training, tenure, and promotion:
    - Years:
