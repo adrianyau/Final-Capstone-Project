@@ -163,6 +163,13 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
        FROM hr_analytics
        ORDER BY hoursworked DESC
        ```
+       |hoursworked|hourlyrate|dailyrate|monthlyrate|monthlyincome|
+|-----------|----------|---------|-----------|-------------|
+|49         |30        |1480     |15062      |2088         |
+|49         |30        |1490     |10310      |16555        |
+|48         |30        |1456     |25796      |7484         |
+|47         |30        |1421     |9490       |17856        |
+|44         |32        |1420     |21922      |18844        |
 
 According to Human Resources, not only does the rate include salary, but also, other overhead costs and expenses to retain the employee, such as benefits and pension.
      - 'Monthly Income' will be the variable used for compensation as the total amount of money that an employee receives in one month from the employer.  Plus, the monthly income is categorized by the following 'Salary Slabs':
