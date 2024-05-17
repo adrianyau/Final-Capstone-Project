@@ -178,11 +178,15 @@ According to Human Resources, not only does the rate include salary, but also, o
          - $10,001 to $15,000
          - Over $15,000
    - Other Compensation:
-     - 'Percent Salary Hike' is the percentage increase to an employee's salary.  According to the dataset, the average percent salary hike is 15.21% ranging from minimum of 11% to maximum of 25%.  Factors to apply a percent salary hike for employees:
-       - Performance
-       - Inflation
-       - Market Competitiveness
-     -Stock Options are a form of compensation for employees to purchase a number of company's shares.  It encourages employees to work productively to boost the company's stock value and stay long with the company for further benefits to their stock options.
+     - 'Percent Salary Hike' is the percentage increase to an employee's salary:
+       - Average 15.21%
+       - Min. 11%
+       - Max. 25%
+       - Factors to apply a percent salary hike for employees:
+         - Performance
+         - Inflation
+         - Market Competitiveness
+  - Stock Options are a form of compensation for employees to purchase a number of company's shares.  It encourages employees to work productively to boost the company's stock value and stay long with the company for further benefits to their stock options.
      - Stock Option Levels:
        - 0: None
          - Minimal to no stock options with focus on base salary and other benefits for new employees
