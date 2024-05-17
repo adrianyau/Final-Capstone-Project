@@ -158,11 +158,11 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
    Here is the information about the organization's compensation structure:
    - Base Compensation:
      - 'Hourly Rate', 'Daily Rate', and 'Monthly Rate' are not properly measured because the conversion between hourly, daily, and monthly does not make sense.
-       ```sql
-       SELECT dailyrate / hourlyrate AS hoursworked, hourlyrate, dailyrate, monthlyrate, monthlyincome
-       FROM hr_analytics
-       ORDER BY hoursworked DESC
-       ```
+```sql
+SELECT dailyrate / hourlyrate AS hoursworked, hourlyrate, dailyrate, monthlyrate, monthlyincome
+FROM hr_analytics
+ORDER BY hoursworked DESC
+```
 |hoursworked|hourlyrate|dailyrate|monthlyrate|monthlyincome|
 |-----------|----------|---------|-----------|-------------|
 |49         |30        |1480     |15062      |2088         |
