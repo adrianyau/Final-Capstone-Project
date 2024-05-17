@@ -65,6 +65,11 @@ GROUP BY department
 |Human Resources|
 |Research & Development|
 |Sales     |
+|maritalstatus|
+|-------------|
+|Married      |
+|Divorced     |
+|Single       |
 
    - Marital Status:
      - Divorced
