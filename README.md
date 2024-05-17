@@ -158,13 +158,13 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
    Here is the information about the organization's compensation structure:
    - Base Compensation:
      - 'Hourly Rate', 'Daily Rate', and 'Monthly Rate' are not properly measured because it cannot be converted between hourly, daily, and monthly.  According to Human Resources, not only does the rate include salary, but also, other overhead costs and expenses to retain the employee, such as benefits and pension.
-     - 'Monthly Income' will be the variable used for compensatino as the total amount of money that an employee receives in one month from the employer.  Plus, the monthly income is categorized by the following Salary Slabs:
+     - 'Monthly Income' will be the variable used for compensation as the total amount of money that an employee receives in one month from the employer.  Plus, the monthly income is categorized by the following 'Salary Slabs':
          - Up to $5,000
          - $5,001 to $10,000
          - $10,001 to $15,000
          - Over $15,000
    - Other Compensation:
-     - 'Percent Salary Hike' is the percentage increase to an employee's salary.  According to the dataset, the average percent salary hike is 15.21% ranging from minimum 11% to maximum 25%.  Factors to apply a percent salary hike for employees:
+     - 'Percent Salary Hike' is the percentage increase to an employee's salary.  According to the dataset, the average percent salary hike is 15.21% ranging from minimum of 11% to maximum of 25%.  Factors to apply a percent salary hike for employees:
        - Performance
        - Inflation
        - Market Competitiveness
