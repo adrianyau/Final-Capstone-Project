@@ -163,7 +163,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
        FROM hr_analytics
        ORDER BY hoursworked DESC
        ```
-       |hoursworked|hourlyrate|dailyrate|monthlyrate|monthlyincome|
+|hoursworked|hourlyrate|dailyrate|monthlyrate|monthlyincome|
 |-----------|----------|---------|-----------|-------------|
 |49         |30        |1480     |15062      |2088         |
 |49         |30        |1490     |10310      |16555        |
