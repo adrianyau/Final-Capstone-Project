@@ -46,9 +46,9 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
 4. Summary and Explanation of the Data:
 
    Attrition (Yes or No)
-   - This will be the basis to measure attrition influenced by other variables in the dataset.
+   - This will be the basis to find comparisions influenced by other variables in the dataset.
 
-   Here is information about employees with respect to age, marital status, education, and work:
+   Here is information about employees with respect to age, marital status, education, and work experience:
    - Age Groups:
      - 18 to 25
      - 26 to 35
@@ -77,7 +77,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Min. 0
      - Max. 9
 
-   Here is the information about the organization's departments and job positions, as well as responsibilities and importance:
+   Here is the information about the organization's departments and job positions, including responsibilities and importance:
    - Departments:
      - Human Resources
      - Research & Development
@@ -135,8 +135,9 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - 5: Executive
        - Significant responsibility and influence within the organization
        - Involved in organizational strategy, leadership, and vision
-   
-   - Job Involvement (the degree on how employees are engaged with their jobs):
+   - Standard Hours are 80 hours
+
+   Here is the information about Job Involvement - the degree measured on how employees are engaged with their jobs:
      - 1: Low
        - Minimal interest in their work
        - Means to earn a paycheque with little attachment to the job
@@ -156,28 +157,29 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
 
    Here is the information about the organization's compensation structure:
    - Base Compensation:
-     - Hourly Rate
-       - Money earned for one hour of work
-     - Daily Rate
-       - Money earned for one day of work
-     - Monthly Rate
-       - Money earned for one month of work
-     - Monthly Income
-       - Salary Slab:
+     - 'Hourly Rate', 'Daily Rate', and 'Monthly Rate' are not properly measured because it cannot be converted between hourly, daily, and monthly.  According to Human Resources, not only does the rate include salary, but also, other overhead costs and expenses to retain the employee, such as benefits and pension.
+     - 'Monthly Income' will be the variable used for compensatino as the total amount of money that an employee receives in one month from the employer.  Plus, the monthly income is categorized by the following Salary Slabs:
          - Up to $5,000
          - $5,001 to $10,000
          - $10,001 to $15,000
          - Over $15,000
    - Other Compensation:
-     - Percent Salary Hike
-       - Between minimum of 11% to maximum 25%
+     - 'Percent Salary Hike' is the percentage increase to an employee's salary.  According to the dataset, the average percent salary hike is 15.21% ranging from minimum 11% to maximum 25%.  Factors to apply a percent salary hike for employees:
+       - Performance
+       - Inflation
+       - Market Competitiveness
+     -Stock Options are a form of compensation for employees to purchase a number of company's shares.  It encourages employees to work productively to boost the company's stock value and stay long with the company for further benefits to their stock options.
      - Stock Option Levels:
        - 0: None
+         - Minimal to no stock options with focus on base salary and other benefits for new employees
        - 1: Basic
+         - Moderate stock options for individual contributors with no managerial responsibilities
        - 2: Intermediate
+         - Large stock options for managers and leaders with greater contributions and higher responsibilities
        - 3: Advanced
-   - Standard Hours (80 Hours)
-   - Performance Rating:
+         - Substantial stock options that are heavily incentivized and a part of an employee's compensation package, mainly for top directors and executives
+
+   Here is the information about 'Performance Rating'.  Employees have only received 3 or 4, which will be used to define as follows:
      - 3: Meets Expectations
      - 4: Exceeds Expectations
 
