@@ -146,7 +146,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
 
    - Standard Hours are 80 hours
 
-   Here is the information about Job Involvement - the degree measured on how employees are engaged with their jobs:
+   Here is the information about 'Job Involvement' - the degree measured on how employees are engaged with their jobs:
      - 1: Low
        - Minimal interest in their work
        - Means to earn a paycheque with little attachment to the job
