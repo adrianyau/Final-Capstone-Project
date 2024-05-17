@@ -148,8 +148,11 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
    Here is the information about the organization's compensation structure:
    - Base Compensation:
      - Hourly Rate
+       - Money earned for one hour of work
      - Daily Rate
+       - Money earned for one day of work
      - Monthly Rate
+       - Money earned for one month of work
      - Monthly Income
        - Salary Slab:
          - Up to $5,000
