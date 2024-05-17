@@ -1,11 +1,7 @@
 # Final-Capstone-Project
 
 ## Project/Goals
-My wife works in the field of Human Resources and she was fascinated about what I have learned in my Data Analytics Bootcamp.  I consulted with her asking what she would be interested if the numbers could give deep insight in her line of work.  She suggested to me about employee attrition - the departure of employees from an organization, whether voluntary or involuntary.  This is important to Human Resources because it is a metric that provides insight on how well does an organization retain their workforce.  Reasons for attrition are mainly due to:
-- Low Compensation
-- Poor Recognition
-- Lack of Career Growth
-- High Levels of Stress
+My wife works in the field of Human Resources and she was fascinated about what I have learned in my Data Analytics Bootcamp.  I consulted with her asking what she would be interested if the numbers could give deep insight in her line of work.  She suggested to me about employee attrition - the departure of employees from an organization, whether voluntary or involuntary.  Employees can choose to leave in pursuit of better career opportunities, higher pay, better work-life balance, or other personal reasons.  Also, employers can make the decision to lay off employees due to organization restructuring or terminate employees for poor performance or misconduct.
 
 Attrition can have a negative impact on an organization:
 - Loss of employees with valuable knowledge and expertise
@@ -27,6 +23,12 @@ However, attrition can provide positive attributes to an organization:
 - Let go of underperforming employees
 - Opportunities internal promotions for existing employees
 - Find employees that align with organization's cultural fit
+
+This is important to Human Resources because it is a metric that provides insight on how well does an organization retain their workforce.  Trends of attrition are defined, measured, and reviewed on the following factors:
+- Low Compensation
+- Poor Recognition
+- Lack of Career Growth
+- High Levels of Stress
 
 Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle that contains information about HR Analytics.  I wanted to explore:
 
