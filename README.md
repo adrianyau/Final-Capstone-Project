@@ -12,17 +12,17 @@ Attrition can have a negative impact on an organization:
 - Temporary dip in work productivity and efficiency
 - Disruption of client relationships and trust from loss of established contacts
 - Disruption to continuity of service and quality of service
-- Delays in ongoing products and initiatives
+- Delays in ongoing projects and initiatives
 - Disruption in team cohesion
-- Harm organization's reputation to attract top talent and promote positive work culture
-- Suggest organization's underlying financial issues to investors and stakeholders.
+- Harm to organization's reputation to attract top talent and promote positive work culture
+- Suggestion of organization's underlying financial issues to investors and stakeholders.
 
 However, attrition can provide positive attributes to an organization:
 - Result in savings and reduce overhead costs
-- Flexibility to add fresh new talent with potential
+- Flexibility to add fresh, new, and potential talent
 - Let go of underperforming employees
-- Opportunities internal promotions for existing employees
-- Find employees that align with organization's cultural fit
+- Opportunities for internal promotions with existing employees
+- Search of employees that fit with organization's culture
 
 This is important to Human Resources because it is a metric that provides insight on how well does an organization retain their workforce.  Trends of attrition are defined, measured, and reviewed on the following factors:
 - Low Compensation
