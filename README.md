@@ -260,8 +260,18 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
 
 
 ## Results
-
-- 
+Human Resources
+- 63 Staff
+  - 11 Managers
+  - 52 Human Resources
+- 12 Employee Attritions (6 Males and 6 Females)
+- Average Salary:
+  - Manager at 217,064
+  - Human Resources at 50,829
+- Satisfaction Scores:
+  - 5/12 Attritions rate Job Satisfaction with Score 1
+  - 10/12 Attritions rate Relationship Satisfaction and Work Life Balance with Scores 3 and 4
+- It is concluded that employees are seeking higher compensation with more responsibilities while Managers occupy the job positions.
 
 ## Challenges 
 
