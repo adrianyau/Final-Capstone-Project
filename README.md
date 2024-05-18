@@ -273,6 +273,13 @@ Human Resources
   - 10/12 Attritions rate Relationship Satisfaction and Work Life Balance with Scores 3 and 4
 - It is concluded that employees are seeking higher compensation with more responsibilities despite good relationships with their direct report while Human Resources Managers occupy the job positions.
 
+Research and Development
+- 967 Staff
+- 133 Employee Attritions (13.75%)
+- Trend of almost half of Lab Technicians quit within the first few years
+  - More than half of the employees who quit are described as young single male employees aged 35 years and younger
+  - They have the last amount of working experience, spent the least amount of time in their job role and report to management, as well as not staying to wait for promotions
+
 ## Challenges 
 
 - 
