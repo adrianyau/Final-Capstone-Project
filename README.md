@@ -271,7 +271,7 @@ Human Resources
 - Satisfaction Scores:
   - 5/12 Attritions rate Job Satisfaction with Score 1
   - 10/12 Attritions rate Relationship Satisfaction and Work Life Balance with Scores 3 and 4
-- It is concluded that employees are seeking higher compensation with more responsibilities while Managers occupy the job positions.
+- It is concluded that employees are seeking higher compensation with more responsibilities despite good relationships with their direct report while Human Resources Managers occupy the job positions.
 
 ## Challenges 
 
