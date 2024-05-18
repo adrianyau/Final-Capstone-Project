@@ -277,8 +277,9 @@ Research and Development
 - 967 Staff
 - 133 Employee Attritions (13.75%)
 - Trend of almost half of Lab Technicians quit within the first few years
-  - More than half of the employees who quit are described as young single male employees aged 35 years and younger
+  - More than half of the employees who quit are described as young, educated, and single male employees aged 35 years and younger
   - They have the last amount of working experience, spent the least amount of time in their job role and report to management, as well as not staying to wait for promotions
+  - They can be described as ambitious and aspire for higher compensation, job titles, and responsibilities
 
 ## Challenges 
 
