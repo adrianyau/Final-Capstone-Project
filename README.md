@@ -291,7 +291,7 @@ Sales
 - Of the 93 employees, more than two thirds are Sales Executives who have zero stock options
 - Important to note that all employees have performance ratings 3 (meet expectations or 4 (exceeds expectations)
 
-* Why do they still stay long-term despite moderate incomes and high salary hikes?
+* Why do they still stay long-term despite moderate incomes and high salary hike percentages?
 
 ## Challenges 
 
