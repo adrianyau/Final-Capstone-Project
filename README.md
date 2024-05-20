@@ -281,6 +281,7 @@ Research and Development
   - More than half of the employees who quit are described as young, educated, and single male employees aged 35 years and younger
   - They have the last amount of working experience, spent the least amount of time in their job role and report to management, as well as not staying to wait for promotions
   - They can be described as ambitious and aspire for higher compensation, job titles, and responsibilities
+  - Why is there high turnover in the beginning?  Is there misconception about the job?  Is it voluntary or involuntary?
 
 Sales
 - 450 Staff
