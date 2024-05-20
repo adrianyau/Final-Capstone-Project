@@ -271,26 +271,27 @@ Human Resources
   - 7/12 Attritions rate Job Satisfaction with Score 1 (Very Dissatisfied) or 2 (Dissatisfied)
   - 10/12 Attritions rate Relationship Satisfaction and Work Life Balance with Scores 3 (Satisfied) or 4 (Very Satisfied)
 
-* Figure out why are their low scores with respect to environment and job satisfaction.  Money is an extrinsic motivator, so it may be best to figure out intrinsic motivators - what drives employees to be satisfied with their jobs and environment?
+* Figure out why are their low scores with respect to environment and job satisfaction.  Money is an extrinsic motivator, so it may be best to figure out intrinsic motivators - what will drive these employees to be satisfied with their jobs and environment?
 
 Research and Development
 - 967 Staff
 - 133 Employee Attritions (13.75%)
 - Almost half of Lab Technicians quit within the first few years:
-  - More than half of the employees who quit are described as young and educated employees aged 35 years and younger
-  - They have the least amount of work experience
-  - They have the least amount of time in their job position
-  - They are not promoted as they do not stay for long-term
+  - More than half of the employees who quit are described as young and educated male employees aged 35 years and younger
+    - They have the least amount of work experience
+    - They have the least amount of time in their job position
+    - They are not promoted as they do not stay for long-term
+    - They do not stay long reporting to their current manager
 
  * Why is there high turnover in the beginning?  Are there misconceptions about the job?  Additional data is needed to figure out whether attrition is involuntary or voluntary.
 
 Sales
 - 450 Staff
 - 93 Employee Attritions (20.67%)
-- Of the 93 Staff, more than two thirds of Sales Executives have zero stock options
-- Despite those have worked as much as 23 years and earned approximately 90,000 annual salary, the overall compensation package is also important
-- All employees have performance rating 3 and higher either meeting expectations or exceeding expectations
-- 28 out of 33 Employee Attritions have scored Job Involvement 2 or higher, meaning they have moderately to highly engaged in their jobs
+- Of the 93 employees, more than two thirds are Sales Executives who have zero stock options
+- Important to note that all employees have performance ratings 3 (meet expectations or 4 (exceeds expectations)
+
+* Why do they still stay long-term despite moderate incomes and high salary hikes?
 
 ## Challenges 
 
