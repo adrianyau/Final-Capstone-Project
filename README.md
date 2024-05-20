@@ -272,6 +272,7 @@ Human Resources
   - 5/12 Attritions rate Job Satisfaction with Score 1
   - 10/12 Attritions rate Relationship Satisfaction and Work Life Balance with Scores 3 and 4
 - It is concluded that employees are seeking higher compensation with more responsibilities despite good relationships with their direct report while Human Resources Managers occupy the job positions.
+- Figure out low scores for environment and job satisfaction.  Not necessarily money because it is an extrinsic motivator.
 
 Research and Development
 - 967 Staff
