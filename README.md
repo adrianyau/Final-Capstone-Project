@@ -286,6 +286,7 @@ Sales
 - 93 Employee Attritions (20.67%)
 - Of the 93 Staff, more than two thirds of Sales Executives have zero stock options.
 - Despite those have worked as much as 23 years and earned approximately 90,000 annual salary, the overall compensation package is also important.
+- All employees have performance rating 3 and higher either meeting expectations or exceeding expectations.
 
 ## Challenges 
 
