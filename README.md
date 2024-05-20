@@ -168,7 +168,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
 
    Here is the information about the organization's compensation structure:
    - Base Compensation:
-     - 'Hourly Rate', 'Daily Rate', and 'Monthly Rate' are not properly measured because the conversion between hourly, daily, and monthly does not make sense.  For example, the most hours worked (49 hours) divide 'Daily Rate' by 'Hourly Rate' exceed 24 hours in a day.  According to Human Resources, not only does the rate include salary, but also, other overhead costs and expenses to keep an employee, such as benefits, social insurance, and pension.  Therefore, the salary rates will be excluded and 'Monthly Income' will be measured as the employee salary.
+     - 'Hourly Rate', 'Daily Rate', and 'Monthly Rate'
      - 'Monthly Income' will be the variable used for compensation as the total amount of money that an employee receives in one month from the employer.  Plus, the monthly income is categorized by the following 'Salary Slabs':
          - Up to $5,000
          - $5,001 to $10,000
@@ -295,10 +295,14 @@ Sales
 
 ## Challenges 
 
-- 
+- Disclaimer: this is a fictional dataset as per Kaggle:
+  - Conversions between salary rates by hourly, daily, and monthly are not correct.  For example, the most hours worked (49 hours) divide 'Daily Rate' by 'Hourly Rate' exceed 24 hours in a day.  Having consulted my wife, not only does the rate include salary, but also, other overhead costs and expenses to keep an employee, such as benefits, social insurance, and pension.  Therefore, the salary rates are excluded and 'Monthly Income' is used as a measurement of employee conpensation.
+  - 'Standard Hours' for all employees is 80 hours, which can possibly mean that employees work 80 hours per work week.  This may not be normal subject to review of labor laws and company's objectives.
+  - 'Performance Rating', as defined, only has 3 (meets expectations) and 4 (exceeds expectations).  This is unrealistic as 1 (unsatisfactory) and 2 (needs improvement) need to be incorporated for the sake of completedness of the dataset to differentiate good performers and poor performers.
+
 
 ## Future Goals
 
-- 
+- Apply the methodologies and processes into a real dataset of a company.
 
 
