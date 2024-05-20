@@ -303,6 +303,6 @@ Sales
 
 ## Future Goals
 
-- Apply the methodologies and processes into a real dataset of a company.
+- Apply the same methodologies and processes into a similar, but real dataset of a company, if permitted.
 
 
