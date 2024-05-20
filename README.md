@@ -297,7 +297,7 @@ Sales
 
 - Disclaimer: this is a fictional dataset as per Kaggle:
   - Conversions between salary rates by hourly, daily, and monthly are not correct.  For example, the most hours worked (49 hours) divide 'Daily Rate' by 'Hourly Rate' exceed 24 hours in a day.  Having consulted my wife, not only does the rate include salary, but also, there are other overhead costs and expenses in order to keep an employee, such as benefits, social insurance, and pension.  Therefore, the salary rates are excluded and 'Monthly Income' is used as a measurement of employee conpensation.
-  - 'Standard Hours' for all employees is 80 hours, which can possibly mean that employees work 80 hours per work week.  This may not be normal subject to review of labor laws and company's objectives.
+  - 'Standard Hours' for all employees is 80 hours, which can possibly mean that employees work 80 hours per work week.  This may not be normal subject to review of labor laws and company's objectives.  Plus, 35 to 40 hours per work week is deemed "standard".
   - 'Performance Rating', as defined, only has 3 (meets expectations) and 4 (exceeds expectations).  This is unrealistic as 1 (unsatisfactory) and 2 (needs improvement) need to be incorporated for the sake of completedness of the dataset to differentiate good performers and poor performers.
 
 
