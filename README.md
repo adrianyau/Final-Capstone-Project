@@ -30,19 +30,16 @@ This is important to Human Resources because it is a metric that provides insigh
 - Lack of Career Growth
 - High Levels of Stress
 
-Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle that contains information about HR Analytics.  I wanted to explore:
-
-1. What does the data on job satisfaction suggest?
-2. Does the amount of travel play a factor?
-3. Are employees still quitting after a salary increase?
-4. Is gender an important element?
-5. How long do employees stay before they leave?
+Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle that contains information about HR Analytics.  I wanted to explore any trends and patterns that are distinct between the different departments within the company.
 
 ## Process
 
 1. Download 'HR_Analytics.csv' from https://www.kaggle.com/datasets/rishikeshkonapure/hr-analytics-prediction.
 2. Import 'HR_Analytics.csv' to Jupyter Notebooks for data review and cleaning, if necessary.
-3. Based on the dataset, this is an organization that may belong in the field of healthcare or pharmaceuticals.  There is involvement in scientific research and development, as well as sales and marketing of the products being studied and tested.
+3. Based on the dataset, this is an organization that may belong in the field of healthcare or pharmaceuticals:
+   - Human Resources manages the employees within the company
+   - Research and Development experiments and creates products for sale
+   - Sales promote and sell products to generate revenue for the company
 4. Summary and Explanation of the Data:
 
    Attrition (Yes or No)
@@ -262,26 +259,30 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
 ## Results
 Human Resources
 - 63 Staff
-  - 11 Managers
-  - 52 Human Resources
-- 12 Employee Attritions (6 Males and 6 Females)
+  - 11 HR Managers
+  - 52 HR Employees
+- 12 Employee Attritions (19.04%)
+  - Split between genders (6 females and 6 males)
+  - No attritions with HR Managers
 - Average Salary:
   - Manager at 217,064
   - Human Resources at 50,829
 - Satisfaction Scores:
-  - 5/12 Attritions rate Job Satisfaction with Score 1
-  - 10/12 Attritions rate Relationship Satisfaction and Work Life Balance with Scores 3 and 4
-- It is concluded that employees are seeking higher compensation with more responsibilities despite good relationships with their direct report while Human Resources Managers occupy the job positions.
-- Figure out low scores for environment and job satisfaction.  Not necessarily money because it is an extrinsic motivator.
+  - 7/12 Attritions rate Job Satisfaction with Score 1 (Very Dissatisfied) or 2 (Dissatisfied)
+  - 10/12 Attritions rate Relationship Satisfaction and Work Life Balance with Scores 3 (Satisfied) or 4 (Very Satisfied)
+
+* Figure out why are their low scores with respect to environment and job satisfaction.  Money is an extrinsic motivator, so it may be best to figure out intrinsic motivators - what drives employees to be satisfied with their jobs and environment?
 
 Research and Development
 - 967 Staff
 - 133 Employee Attritions (13.75%)
-- Trend of almost half of Lab Technicians quit within the first few years
-  - More than half of the employees who quit are described as young, educated, and single male employees aged 35 years and younger
-  - They have the last amount of working experience, spent the least amount of time in their job role and report to management, as well as not staying to wait for promotions
-  - They can be described as ambitious and aspire for higher compensation, job titles, and responsibilities
-  - Why is there high turnover in the beginning?  Is there misconception about the job?  Is it voluntary or involuntary?
+- Almost half of Lab Technicians quit within the first few years:
+  - More than half of the employees who quit are described as young and educated employees aged 35 years and younger
+  - They have the least amount of work experience
+  - They have the least amount of time in their job position
+  - They are not promoted as they do not stay for long-term
+
+ * Why is there high turnover in the beginning?  Are there misconceptions about the job?  Additional data is needed to figure out whether attrition is involuntary or voluntary.
 
 Sales
 - 450 Staff
