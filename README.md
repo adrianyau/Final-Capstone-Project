@@ -303,6 +303,6 @@ Sales
 
 ## Future Goals
 
-- Apply the same methodologies and processes into a similar, but real dataset of a company, if permitted.
+- Speak to a Human Resources Analyst for feedback and advice to this final capstone project.
 
 
