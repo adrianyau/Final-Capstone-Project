@@ -276,12 +276,11 @@ Human Resources
 Research and Development
 - 967 Staff
 - 133 Employee Attritions (13.75%)
-- Almost half of Lab Technicians quit within the first few years:
-  - More than half of the employees who quit are described as young and educated male employees aged 35 years and younger
-    - They have the least amount of work experience
-    - They have the least amount of time in their job position
-    - They are not promoted as they do not stay for long-term
-    - They do not stay long reporting to their current manager
+- More than half of the employees who quit are described as young and educated employees aged 35 years or younger
+  - They have the least amount of work experience
+  - They have the least amount of time in their job position
+  - They are not promoted as they do not stay for long-term
+  - They do not stay long reporting to their current manager
 
  * Why is there high turnover in the beginning?  Are there misconceptions about the job?  Additional data is needed to figure out whether attrition is involuntary or voluntary.
 
