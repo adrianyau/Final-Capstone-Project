@@ -1,3 +1,5 @@
+Group by age groups:
+
 ```sql
 SELECT agegroup
 FROM hr_analytics
@@ -12,6 +14,8 @@ ORDER BY agegroup
 |46-55   |
 |55+     |
 
+Group by marital status:
+
 ```sql
 SELECT maritalstatus
 FROM hr_analytics
@@ -23,6 +27,9 @@ ORDER BY maritalstatus
 |Married      |
 |Divorced     |
 |Single       |
+
+
+Group by education fields:
 
 ```sql
 SELECT educationfield
@@ -39,6 +46,8 @@ ORDER BY educationfield
 |Other         |
 |Technical Degree|
 
+Group by departments:
+
 ```sql
 SELECT department
 FROM hr_analytics
@@ -49,6 +58,8 @@ GROUP BY department
 |Human Resources|
 |Research & Development|
 |Sales     |
+
+Group by jole roles:
 
 ```sql
 SELECT jobrole
