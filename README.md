@@ -276,7 +276,7 @@ Human Resources
 Research and Development
 - 967 Staff
 - 133 Employee Attritions (13.75%)
-- More than half of the employees who quit are described as young and educated employees aged 35 years or younger
+- More than a quarter of the employees who quit are described as young and educated employees aged 35 years or younger
   - They have the least amount of work experience
   - They have the least amount of time in their job position
   - They are not promoted as they do not stay for long-term
