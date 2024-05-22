@@ -271,7 +271,7 @@ Sales
 - Of the 93 employees, more than two thirds are Sales Executives who have zero stock options
 - Important to note that all employees have performance ratings 3 (meet expectations or 4 (exceeds expectations)
 
-* Why do they still stay long-term despite moderate incomes and high salary hike percentages?
+* Why are the experienced Sales Executives leaving the company?  Is it for a complete compensation package?  Do they want recognition that they are the main contributors to the company's financial successes?
 
 ## Challenges 
 
@@ -284,5 +284,8 @@ Sales
 ## Future Goals
 
 - Speak to a Human Resources Analyst for feedback and advice to this final capstone project.
+- Network with other professionals in the industry:
+  - See if they have similar approaches to employee attrition.
+  - Hear if they have new ideas to handle employee attrition.
 
 
