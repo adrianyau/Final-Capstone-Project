@@ -229,9 +229,9 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
      - Max. 29 mi
 
    Here is information about the number of years with respect to experience, training, tenure, and promotion:
-   - From 0 years working experience to maximum 40 years of working experience.
-   - Average training time is 3 times per year with maximum of 6 times in a year.
-   - Average employee worked in the company is 7 years.
+   - Average employee had 11 years working experience.  Some employees have 0 working experience, while one employee had 40 years of experience.
+   - Average employee was trained 3 times per year with one employee trained maximum of 6 times in a year.
+   - Average employee worked in the company is 7 years.  Some employees started working in the company, while one employee worked for 40 years.
    - Average employee spent 4 years in a current role.
    - Average employee worked 2 years before being promoted.
    - Average employee worked 4 years under current manager.
