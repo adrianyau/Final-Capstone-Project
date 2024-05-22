@@ -234,31 +234,7 @@ Inspired by her intrigue and passion, I have downloaded a dataset from Kaggle th
    - Average employee worked in the company is 7 years.
    - Average employee spent 4 years in a current role.
    - Average employee worked 2 years before being promoted.
-   - 
-     - Total Working Years
-       - Average 0
-       - Min. 0
-       - Max. 40
-     - Training Times Last Year
-       - Average 3
-       - Min. 0
-       - Max. 6
-     - Years At Company
-       - Average 7
-       - Min. 0
-       - Max. 40
-     - Years In Current Role:
-       - Average 4
-       - Min. 0
-       - Max. 18
-     - Years Since Last Promotion
-       - Average 2
-       - Min. 0
-       - Max. 15
-     - Years With Current Manager
-       - Average 0
-       - Min. 0
-       - Max. 17
+   - Average employee worked 4 years under current manager.
 
 
 ## Results
